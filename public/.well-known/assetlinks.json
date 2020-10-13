@@ -7,7 +7,7 @@
             "namespace": "android_app",
             "package_name": "io.fireship.app",
             "sha256_cert_fingerprints": [
-                "MD5:  FC:8E:D8:2F:8D:27:32:88:4E:6D:52:31:FC:DA:39:F8          SHA1: A9:CC:13:8C:12:D5:7A:E2:7E:5E:64:1F:CE:34:C8:5A:12:51:33:3D          SHA256: 98:D3:BC:B0:AA:6E:EF:D5:C6:D5:87:33:C4:5D:5E:F7:95:BC:51:0F:57:77:12:D6:F3:EE:18:82:12:A2:8B:A6          Signature algorithm name: SHA256withRSA"
+                " 98:D3:BC:B0:AA:6E:EF:D5:C6:D5:87:33:C4:5D:5E:F7:95:BC:51:0F:57:77:12:D6:F3:EE:18:82:12:A2:8B:A6"
             ]
         }
     }
