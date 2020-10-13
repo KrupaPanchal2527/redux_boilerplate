@@ -7,10 +7,6 @@ import { connect } from 'react-redux';
 import { testCall } from '../Store/actions/actions';
 
 class DemoComponent extends Component {
-    constructor(props) {
-        super(props);
-    }
-
     render() {
         const { message, testCall } = this.props;
         return (

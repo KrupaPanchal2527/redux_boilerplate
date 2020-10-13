@@ -1,4 +1,4 @@
-// Import function which will create you store 
+// Import function which will create your store 
 import { createStore, applyMiddleware } from 'redux';
 
 // import 'root reducer'
